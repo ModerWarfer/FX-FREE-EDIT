@@ -131,12 +131,6 @@ FxBot.on('group-participants-update', async (anu) => {
 ┃   「 *_BIENVENIDO_* 」
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
-┠⊷️ *Suscríbete*:
-┠⊷️*http://bit.ly/2ZUH2jP
-┠⊷️ *Grupo Oficial*:
-┠⊷️ *http://bit.ly/3hpkba4
-┗━━━━━━━━━━━━━━━━━
-┏━━━━━━━━━━━━━━━━━
 ┠⊷️「 *DESCRIPCIÓN* 」
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
@@ -165,7 +159,7 @@ ${leave}	`
 				}
 			let buff = await getBuffer(ppimg)
 			
-			teks = `𝙉𝙐𝙀𝙑𝙊 𝘼𝙆𝙈𝙄𝙉
+			teks = `NUEVA PERLAMASTER
 			
 \`\`\`Nombre :\`\`\` ${num.replace('@s.whatsapp.net', '')}
 
@@ -187,7 +181,7 @@ ${promote}`
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
 			let buff = await getBuffer(ppimg)
-			teks = `𝙎𝙀 𝙈𝘼𝙏𝙊 𝘼 𝙐𝙉 𝘼𝙆𝙈𝙄𝙉
+			teks = `YA NO ESRES PERLAMASTER
 			
 \`\`\`Nombre :\`\`\` ${num.replace('@s.whatsapp.net', '')}
 
@@ -265,7 +259,7 @@ FxBot.on('chat-update', async (mek) => {
 			waitmusic: '「 ❗ 」 Espera! Estoy buscando tu musica\nEn cuánto la encuentre la envío!!',
 			waitimg: '「 ❗ 」 Espera! Estoy creando tu imagen!',
 			nsfwoff: '「 ❗ 」La Funcion De Nsfw No Está Activa!',
-					musica: 'Espera un momento, estoy buscando tu canción, recuerda suscribirte a mi canal de YouTube😎🤙🏻',
+					musica: 'Espera un momento, estoy buscando tu canción🏻',
 			imageoff: '「 ❗ 」No Puedo Enviar Fotos Mientras No Esta Activa La Función!',
 			error: {
 				stick: '「 ❗ 」F no se pudo convertir:/',
