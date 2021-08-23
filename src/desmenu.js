@@ -8,8 +8,7 @@ const desmenu = (prefix, pushname) => {
   Coloca El Link Del Video YT
 - ${prefix}ytmp4
   Coloca El Link Del Video YT
-     
-By Felixcrack`
+     `
 
 }
 
